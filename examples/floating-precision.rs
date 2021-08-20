@@ -1,6 +1,6 @@
-extern crate bigdecimal;
+extern crate datom_bigdecimal;
 
-use bigdecimal::BigDecimal;
+use datom_bigdecimal::BigDecimal;
 use std::str::FromStr;
 
 fn main() {
