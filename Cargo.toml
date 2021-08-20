@@ -1,11 +1,11 @@
 [package]
-name = "bigdecimal"
-version = "0.2.0"
-authors = ["Andrew Kubera"]
+name = "datom-bigdecimal"
+version = "0.3.0"
+authors = ["Andrew Kubera", "Lutris Engineering"]
 description = "Arbitrary precision decimal numbers"
-documentation = "https://docs.rs/bigdecimal"
-homepage = "https://github.com/akubera/bigdecimal-rs"
-repository = "https://github.com/akubera/bigdecimal-rs"
+documentation = "https://docs.rs/datom-bigdecimal"
+homepage = "https://github.com/LutrisEng/datom-bigdecimal-rs"
+repository = "https://github.com/LutrisEng/datom-bigdecimal-rs"
 keywords = ["mathematics", "numerics", "decimal", "arbitrary-precision", "floating-point"]
 license = "MIT/Apache-2.0"
 
